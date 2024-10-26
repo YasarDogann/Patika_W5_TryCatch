@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\bin\Debug\net8.0\patika_w5_TryCatch.exe
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\bin\Debug\net8.0\patika_w5_TryCatch.deps.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\bin\Debug\net8.0\patika_w5_TryCatch.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\bin\Debug\net8.0\patika_w5_TryCatch.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\bin\Debug\net8.0\patika_w5_TryCatch.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\refint\patika_w5_TryCatch.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\patika_w5_TryCatch.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_TryCatch\patika_w5_TryCatch\obj\Debug\net8.0\ref\patika_w5_TryCatch.dll
